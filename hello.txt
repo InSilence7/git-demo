@@ -1,7 +1,7 @@
 hello git!!!! update
 hello git!!!! update second
 hello git!!!! hot-fix
-hello git!!!!
+hello git!!!! master text
 hello git!!!!
 hello git!!!!
 hello git!!!!
