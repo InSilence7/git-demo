@@ -3,7 +3,7 @@ hello git!!!! update second
 hello git!!!! hot-fix
 hello git!!!! master text
 hello git!!!! master text1
+hello git!!!! hot-fix text1
 hello git!!!!
 hello git!!!!
-hello git!!!!
-hello git!!!!
+hello git!!!! hot-fix text
