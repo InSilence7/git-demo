@@ -11,3 +11,4 @@ pull test
 clone test user1
 push test user1
 push test1 user1
+fork test user2
