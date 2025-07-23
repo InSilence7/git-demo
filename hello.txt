@@ -8,3 +8,4 @@ hello git!!!!
 hello git!!!!
 hello git!!!! hot-fix text
 pull test
+clone test user1
