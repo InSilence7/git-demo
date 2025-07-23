@@ -9,3 +9,4 @@ hello git!!!!
 hello git!!!! hot-fix text
 pull test
 clone test user1
+push test user1
