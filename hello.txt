@@ -7,3 +7,4 @@ hello git!!!! hot-fix text1
 hello git!!!!
 hello git!!!!
 hello git!!!! hot-fix text
+pull test
